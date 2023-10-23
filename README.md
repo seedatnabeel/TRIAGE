@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## TRIAGE on your own data with 2-lines of code added to your training loops!
 
-To get started with TRIAGE on your own data, we provide tutorial notebooks to illustrate the usage of TRIAGE. Examples are provided both Pytorch style and SKLearn style (XGBoost, Catboost, LightGBM) models.
+To get started with TRIAGE on your own data, we provide tutorial notebooks to illustrate the usage of TRIAGE. Examples are provided for both Pytorch and SKLearn (XGBoost, Catboost, LightGBM) models/regressors.
 
 These notebooks can be found in the ``/tutorials`` folder. We use an open-source dataset from OpenML as an example dataset in the tutorials for ease of accessbility.
 
