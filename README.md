@@ -75,7 +75,7 @@ If you use this code, please cite the associated paper:
 {seedat2023triage,
 title={TRIAGE: Characterizing and auditing training data for improved regression},
 author={Seedat, Nabeel and Crabbe, Jonathan and Qian, Zhaozhi and van der Schaar, Mihaela},
-booktitle={Advances in Neural Information Processing Systems},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023}
 }
 ```
